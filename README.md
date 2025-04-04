@@ -4,5 +4,5 @@ This is a version of the snake game made with C running in prompt. The code is n
 
 /// you need this to complile this code use CMD command windows
 
--gcc main.c -o main
+- gcc main.c -o main
 - main.exe
